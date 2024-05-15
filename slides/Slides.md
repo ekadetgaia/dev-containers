@@ -12,7 +12,7 @@ footer: '@Chris_L_Ayers - https://chris-ayers.com'
 
 ---
 
-![bg left:40%](./img/portrait.png)
+![bg left:50%](./img/portrait.png)
 
 ## Chris Ayers
 ### Senior Customer Engineer<br>Microsoft
